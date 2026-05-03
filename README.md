@@ -24,4 +24,5 @@ This repository contains my labs, assignments, and projects for ITAI 3377. The w
 
 ### Projects 
 - Midterm project
-- Capstone project
+- Capstone Project
+- IIoT Temp Project
